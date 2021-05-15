@@ -1,3 +1,9 @@
+/*
+    THE FINAL PRODUCT IN ACTION:
+    https://www.youtube.com/watch?v=kKrIuo5tWn0
+*/
+
+
 // Some arrays to hold player specific pins
 // Player array values: X, Y, LED, Button
 const int player[2][4] = {
